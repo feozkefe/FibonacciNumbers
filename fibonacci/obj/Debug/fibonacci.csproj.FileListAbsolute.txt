@@ -1,0 +1,10 @@
+C:\Users\feyza\source\repos\fibonacci\fibonacci\bin\Debug\fibonacci.exe.config
+C:\Users\feyza\source\repos\fibonacci\fibonacci\bin\Debug\fibonacci.exe
+C:\Users\feyza\source\repos\fibonacci\fibonacci\bin\Debug\fibonacci.pdb
+C:\Users\feyza\source\repos\fibonacci\fibonacci\obj\Debug\fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\feyza\source\repos\fibonacci\fibonacci\obj\Debug\fibonacci.Form1.resources
+C:\Users\feyza\source\repos\fibonacci\fibonacci\obj\Debug\fibonacci.Properties.Resources.resources
+C:\Users\feyza\source\repos\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.GenerateResource.Cache
+C:\Users\feyza\source\repos\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\feyza\source\repos\fibonacci\fibonacci\obj\Debug\fibonacci.exe
+C:\Users\feyza\source\repos\fibonacci\fibonacci\obj\Debug\fibonacci.pdb
